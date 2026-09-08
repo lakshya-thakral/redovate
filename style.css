@@ -558,7 +558,7 @@ section {
     white-space: nowrap;
     background: rgba(20, 20, 20, 0.95);
 }
-.owner-info {
+/* .owner-info {
    text-align: left;
     position: absolute;
     bottom: 20px;
@@ -568,7 +568,7 @@ section {
     border-radius: 12px;
     z-index: 3;
     white-space: nowrap;
-}
+} */
 
 .owner-info h4 {
     font-size: 1.2rem;
