@@ -552,7 +552,7 @@ section {
 .owner-info {
     position: absolute;
     bottom: 20px;
-    left: 20%;
+    left: 50%;
     transform: translateX(-50%);
     padding: 15px 25px;
     border-radius: 12px;
